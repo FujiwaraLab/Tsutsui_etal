@@ -5,7 +5,7 @@ scRNA-seq_Analysis_FigS10
 7th January 2021. 
 
 This R code was used in the paper Tsutsui et al., (link). 
-The code is written by Hiroki Machida. 
+The code was written by Hiroki Machida with support from Kyungmin Ahn. 
 
 ## Description
 
