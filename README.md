@@ -1,6 +1,6 @@
 ## Tsutsui_etal
 
-Gene expression analysis
+Gene_expression_analysis
 ====
 7th January 2021. 
 
