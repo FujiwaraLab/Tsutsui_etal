@@ -1,6 +1,6 @@
 ## Tsutsui_etal
 
-scRNA-seq_Analysis_FigS10
+Gene expression analysis
 ====
 7th January 2021. 
 
